@@ -53,3 +53,9 @@ form > label {
   display: inline;
   grid-column: 2 / -1;
 }
+
+.submitButton {
+  margin-top: 15px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
